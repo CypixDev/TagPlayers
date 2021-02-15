@@ -1,0 +1,4 @@
+name: TagPlayers
+version: 1.0
+author: Cypix
+main: de.cypix.tagplayers.main.TagPlayers
